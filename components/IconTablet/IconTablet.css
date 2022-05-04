@@ -1,0 +1,31 @@
+.menu-ico-tablet-3 {
+  display: flex;
+  height: 33px;
+  margin-left: 1px;
+  margin-top: 23px;
+  width: 33px;
+}
+
+.film-icon {
+  cursor: pointer;
+  height: 14px;
+  letter-spacing: 0;
+  margin-left: 7px;
+  margin-top: 9.3px;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 19px;
+}
+
+.film-icon:hover {
+  color: #FF4E4E
+}
+
+.menu-ico-tablet-3.menu-ico-tablet-1 {
+  margin-top: 25px;
+}
+
+.menu-ico-tablet-3.menu-ico-tablet-2 {
+  margin-top: 24px;
+}
+

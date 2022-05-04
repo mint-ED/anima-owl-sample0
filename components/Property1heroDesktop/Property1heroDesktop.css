@@ -1,0 +1,52 @@
+.hero-container-1 {
+  align-items: center;
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-height: 544px;
+  position: relative;
+}
+
+.main-title {
+  color: var(--white);
+  font-weight: 400;
+  height: 117px;
+  margin-left: -917px;
+  margin-top: 28px;
+  width: 322px;
+}
+
+.film-info-1 {
+  color: var(--sonic-silver);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-xl);
+  font-weight: 400;
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -1015px;
+  margin-top: 5px;
+  white-space: nowrap;
+  width: 224px;
+}
+
+.film-about-1 {
+  height: 78px;
+  letter-spacing: 0;
+  line-height: 26px;
+  margin-left: -855px;
+  margin-top: 20px;
+  width: 386px;
+}
+
+.film-credits-1 {
+  height: 48px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-left: -961px;
+  margin-top: 24px;
+  width: 278px;
+}
+

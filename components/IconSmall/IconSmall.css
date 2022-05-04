@@ -1,0 +1,35 @@
+.menu-ico-mobile {
+  display: flex;
+  height: 41px;
+  margin-left: 0;
+  width: 41px;
+}
+
+.fav-icon {
+  cursor: pointer;
+  height: 18px;
+  letter-spacing: 0;
+  margin-left: 11px;
+  margin-top: 11.5px;
+  text-align: center;
+  transition: all 0.2s ease;
+  width: 19px;
+}
+
+.fav-icon:hover {
+  color: #FF4E4E
+}
+
+.menu-ico-mobile.menu-ico-mobile-1 {
+  margin-left: 53.0px;
+  margin-top: 0;
+}
+
+.menu-ico-mobile.menu-ico-mobile-2 {
+  margin-left: 54px;
+}
+
+.menu-ico-mobile.menu-ico-mobile-3 {
+  margin-left: 53px;
+}
+

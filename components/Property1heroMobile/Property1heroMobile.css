@@ -1,0 +1,74 @@
+.hero-container {
+  background-color: var(--cod-gray);
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  max-height: 534px;
+  position: relative;
+}
+
+.film-preview {
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  max-height: 243px;
+}
+
+.indi-logo {
+  height: 27.05px;
+  margin-left: -289.0px;
+  margin-top: 19.8px;
+  width: 34px;
+}
+
+.title {
+  align-self: center;
+  color: var(--white);
+  font-weight: 400;
+  height: 59px;
+  margin-left: -162px;
+  margin-top: 17px;
+  width: 161px;
+}
+
+.film-info {
+  align-self: center;
+  color: var(--sonic-silver);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 15px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: -173px;
+  margin-top: 1px;
+  white-space: nowrap;
+  width: 150px;
+}
+
+.film-about {
+  align-self: center;
+  height: 65px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: -1px;
+  margin-top: 9px;
+  width: 320px;
+}
+
+.film-credits {
+  align-self: center;
+  color: var(--white);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-s);
+  font-weight: 400;
+  height: 30px;
+  letter-spacing: 0;
+  line-height: 15px;
+  margin-left: -138px;
+  margin-top: 9px;
+  width: 185px;
+}
+

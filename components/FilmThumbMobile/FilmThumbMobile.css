@@ -1,0 +1,31 @@
+.film-thumb-5 {
+  cursor: pointer;
+  height: 150px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 100px;
+}
+
+.film-thumb-5:hover,
+.film-thumb-5.film-thumb-1:hover {
+  transform: scale(1.04);
+}
+
+.film-thumb-5.film-thumb-1 {
+  margin-top: 7px;
+}
+
+.film-thumb-5.film-thumb-2 {
+  margin-left: 0.44px;
+}
+
+.film-thumb-5.film-thumb-3 {
+  margin-left: 0.44px;
+  margin-top: 7px;
+}
+
+.film-thumb-5.film-thumb-4 {
+  margin-left: 0.06px;
+  margin-top: 7px;
+}
+

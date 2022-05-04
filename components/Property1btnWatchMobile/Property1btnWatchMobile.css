@@ -1,0 +1,46 @@
+.btn-watch {
+  align-items: flex-start;
+  align-self: center;
+  cursor: pointer;
+  display: flex;
+  height: 32.36px;
+  margin-left: -220.4px;
+  margin-top: 20px;
+  min-width: 102.6px;
+  transition: all 0.2s ease;
+}
+
+.btn-watch:hover {
+  transform: scale(1.1);
+}
+
+.watch-container {
+  align-items: flex-start;
+  background-color: var(--cod-gray);
+  border: 0.7px solid var(--indi-red);
+  border-radius: 29.9px;
+  display: flex;
+  height: 32px;
+  min-width: 103px;
+  padding: 7.1px 14.0px;
+}
+
+.btn-watch-1 {
+  align-self: center;
+  height: 12px;
+  margin-bottom: 0.77px;
+  width: 12px;
+}
+
+.watch-now {
+  color: var(--indi-red);
+  font-family: var(--font-family-work_sans);
+  font-size: var(--font-size-m);
+  font-weight: 300;
+  height: 18px;
+  letter-spacing: 0;
+  line-height: 18px;
+  margin-left: 4px;
+  white-space: nowrap;
+}
+

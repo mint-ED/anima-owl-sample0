@@ -1,0 +1,37 @@
+.btn-submit {
+  align-items: center;
+  border-radius: 32.45px;
+  cursor: pointer;
+  display: flex;
+  height: 30px;
+  justify-content: center;
+  margin-left: -224px;
+  margin-top: 31px;
+  transition: all 0.2s ease;
+  width: 97px;
+}
+
+.btn-submit:hover {
+  transform: scale(1.1);
+}
+
+.submit {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-left: -1px;
+  text-align: center;
+  white-space: nowrap;
+  width: 50px;
+}
+
+.btn-submit.btn-submit-1 {
+  margin-left: 16px;
+  margin-top: 6px;
+}
+
+.btn-submit.btn-submit-2 {
+  margin-left: 9px;
+  margin-top: 5px;
+}
+

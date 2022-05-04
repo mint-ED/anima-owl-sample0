@@ -1,0 +1,16 @@
+.film-thumb-6 {
+  cursor: pointer;
+  height: 280px;
+  object-fit: cover;
+  transition: all 0.2s ease;
+  width: 190px;
+}
+
+.film-thumb-6:hover {
+  transform: scale(1.04);
+}
+
+.film-thumb-6.film-thumb-7 {
+  margin-top: 15px;
+}
+

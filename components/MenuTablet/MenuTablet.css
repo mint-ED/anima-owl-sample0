@@ -1,0 +1,20 @@
+.sidebar-menu-2 {
+  align-items: center;
+  background-color: var(--licorice);
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  left: 0;
+  position: fixed;
+  top: 0;
+  width: 64px;
+  z-index: 3;
+}
+
+.indi-logo-2 {
+  height: 25px;
+  margin-left: 1px;
+  margin-top: 19px;
+  width: 31px;
+}
+

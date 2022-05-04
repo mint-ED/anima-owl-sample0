@@ -1,0 +1,21 @@
+.sidebar-menu {
+  align-items: center;
+  background-color: var(--licorice);
+  bottom: 0;
+  display: flex;
+  height: 53px;
+  justify-content: center;
+  left: 0;
+  position: fixed;
+  width: 100%;
+  z-index: 2;
+}
+
+.bottom-menu-icons {
+  display: flex;
+  height: 40px;
+  margin-top: -1px;
+  position: relative;
+  width: 323px;
+}
+

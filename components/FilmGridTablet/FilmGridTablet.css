@@ -1,0 +1,39 @@
+.container-films-1-3 {
+  align-items: flex-start;
+  align-self: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -32px;
+  min-height: 762px;
+  width: 606px;
+}
+
+.title-5 {
+  letter-spacing: 0;
+  line-height: 22px;
+  margin-top: 59px;
+  min-height: 49px;
+  width: 606px;
+}
+
+.row,
+.row-3 {
+  align-items: flex-start;
+  display: flex;
+  height: 208px;
+  min-width: 606px;
+  position: relative;
+}
+
+.row-1,
+.row-2,
+.row-4,
+.row-5 {
+  align-items: flex-start;
+  display: flex;
+  height: 208px;
+  margin-top: 15px;
+  min-width: 606px;
+  position: relative;
+}
+

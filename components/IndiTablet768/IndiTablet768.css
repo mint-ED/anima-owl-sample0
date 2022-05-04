@@ -1,0 +1,23 @@
+.indi-tablet-768 {
+  background-color: var(--log-cabin);
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
+  justify-content: space-between;
+  min-height: 2236px;
+  min-width: 768px;
+  position: relative;
+  width: 100%;
+}
+
+.content-1 {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  height: 1889px;
+  margin-left: 64px;
+  max-height: 1889px;
+  position: relative;
+  z-index: 1;
+}
+
